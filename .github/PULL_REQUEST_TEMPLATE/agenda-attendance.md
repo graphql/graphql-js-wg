@@ -12,7 +12,7 @@ Before attending a GraphQL Working Group meeting, please check the following:
   https://github.com/graphql/foundation
 
 - You have read the participation guidelines and intend on contributing to the discussion. To respect meeting size, attendees should be relevant to the agenda. Recordings and notes will be posted after the meeting.
-  https://github.com/graphql/graphql-wg#participation-guidelines
+  https://github.com/graphql/graphql-js-wg#participation-guidelines
 
 - Agenda items must include:
   - Relevant links (RFC, issues, PRs)
