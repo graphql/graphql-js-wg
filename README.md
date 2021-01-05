@@ -19,7 +19,7 @@ an agenda item*.
 All meetings occur via video conference, however participating company
 offices are welcome to host guests.
 
-Meetings are typically scheduled for the last Wednesday of each month at 4:00pm
+Meetings are typically scheduled for the last Wednesday of each month at 5:00pm
 UTC. Check the [`agendas/`](./agendas) for the exact date and time
 of upcoming meetings.
 
