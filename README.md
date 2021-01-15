@@ -19,12 +19,14 @@ an agenda item*.
 All meetings occur via video conference, however participating company
 offices are welcome to host guests.
 
-Meetings are typically scheduled for the last Wednesday of each month at 4:00pm
+Meetings are typically scheduled for the last Wednesday of each month at 5:00pm
 UTC. Check the [`agendas/`](./agendas) for the exact date and time
 of upcoming meetings.
 
+<!-- These are broken. Need to fix them see https://github.com/graphql/graphql-js-wg/issues/24
 Keep track of future upcoming meetings by subscribing to the
-[Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19pazc5dDl1dWoycDMyaTNyMjAzZGd2NW1vOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) or [ical file](https://calendar.google.com/calendar/ical/linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com/public/basic.ics). (maintained in UTC because time zones are hard).
+[Google Calendar](https://calendar.google.com/calendar?cid=bGludXhmb3VuZGF0aW9uLm9yZ19pazc5dDl1dWoycDMyaTNyMjAzZGd2NW1vOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) or [ical file](https://calendar.google.com/calendar/ical/linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com/public/basic.ics). (maintained in UTC because time zones are hard). 
+-->
 
 ### Joining a meeting?
 
