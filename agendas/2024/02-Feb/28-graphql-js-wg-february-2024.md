@@ -35,7 +35,7 @@ implementation.
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Jovi De Croock       | @JoviDeCroock | Stellate           | Aalst, BE             |
 | Yaacov Rydzinski     | @yaacovCR     | Individual         | Neve Daniel, IL       |
-
+| Saihajpreet Singh    | @saihaj       | The Guild          | Ottawa, CA            |
 
 ## Agenda
 
