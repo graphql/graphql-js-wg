@@ -1,20 +1,19 @@
-GraphQL-JS Working Group
-========================
+# GraphQL-JS Working Group
 
 GraphQL-JS WG (Working Group) is a monthly virtual meeting of maintainers of
 commonly used GraphQL libraries and tools and significant contributors in the Javascript ecosystem, operated by the GraphQL Foundation.
 
 The GraphQL-JS WG's primary purpose is to discuss and agree upon
 proposed changes to the [GraphQL-JS](https://github.com/graphql/graphql-spec)
-library and other related foundation libraries like [express-graphql](https://github.com/graphql/express-graphql) and [graphql-relay-js](https://github.com/graphql/graphql-relay-js). 
+library and other related foundation libraries like [express-graphql](https://github.com/graphql/express-graphql) and [graphql-relay-js](https://github.com/graphql/graphql-relay-js).
 Additionally, the group may discuss and collaborate on other relevant technical topics concerning core Javascript GraphQL projects.
 
 Anyone in the public GraphQL community may attend a GraphQL-JS WG meeting, provided
 they first sign the [Specification Membership Agreement](https://github.com/graphql/foundation) or belong to an organization which has signed.
 
 This repository holds **agendas** and **notes** for all meetings past and
-upcoming. Anyone may edit an upcoming event's agenda to *attend* or *propose
-an agenda item*.
+upcoming. Anyone may edit an upcoming event's agenda to _attend_ or _propose
+an agenda item_.
 
 All meetings occur via video conference, however participating company
 offices are welcome to host guests.
@@ -24,7 +23,7 @@ UTC. Check the [`agendas/`](./agendas) for the exact date and time
 of upcoming meetings.
 
 Keep track of future upcoming meetings by subscribing to the
-[Google Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com) or [ical file](https://calendar.google.com/calendar/ical/linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com/public/basic.ics). (maintained in UTC because time zones are hard). 
+[Google Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com) or [ical file](https://calendar.google.com/calendar/ical/linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com/public/basic.ics). (maintained in UTC because time zones are hard).
 
 To create the agenda files for a given month YYYY/MM, run the following command:
 
@@ -51,7 +50,7 @@ follow or run off course. When we talk about issues we care about, it's easy to
 get into heated debate. In order to respect everyone's time, and arrive to
 worthwhile outcomes, consider a few guidelines:
 
-*These guidelines are heavily inspired by [Allen Wirfs-Brock](http://wirfs-brock.com/allen/files/papers/standpats-asianplop2016.pdf).*
+_These guidelines are heavily inspired by [Allen Wirfs-Brock](http://wirfs-brock.com/allen/files/papers/standpats-asianplop2016.pdf)._
 
 ### Participate
 
@@ -123,4 +122,4 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 You can find [detailed information here](https://github.com/graphql/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
 
-If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join). 
+If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
