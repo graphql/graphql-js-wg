@@ -26,6 +26,11 @@ of upcoming meetings.
 Keep track of future upcoming meetings by subscribing to the
 [Google Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com) or [ical file](https://calendar.google.com/calendar/ical/linuxfoundation.org_ik79t9uuj2p32i3r203dgv5mo8%40group.calendar.google.com/public/basic.ics). (maintained in UTC because time zones are hard). 
 
+To create the agenda files for a given month YYYY/MM, run the following command:
+
+```
+yarn && yarn gen-agenda YYYY MM
+```
 
 ### Joining a meeting?
 

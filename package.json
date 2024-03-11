@@ -1,5 +1,8 @@
 {
   "private": true,
+  "scripts": {
+    "gen-agenda": "wgutils agenda gen"
+  },
   "dependencies": {
     "prettier": "^3.2.4",
     "wgutils": "^0.1.5"
