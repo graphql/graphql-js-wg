@@ -30,10 +30,11 @@ implementation.
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name                 | GitHub        | Organization       | Location              |
-| :------------------- | :------------ | :----------------- | :-------------------- |
-| Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
-| Jeff Auriemma        | @bignimbus    | Apollo             | Monroe, CT, USA       |
+| Name                 | GitHub        | Organization       | Location               |
+| :------------------- | :------------ | :----------------- | :--------------------- |
+| Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK    |
+| Jeff Auriemma        | @bignimbus    | Apollo             | Monroe, CT, USA        |
+| Fernando Silva       | @fersilva16   | Woovi              | Belo Horizonte, MG, BR |
 
 
 ## Agenda
