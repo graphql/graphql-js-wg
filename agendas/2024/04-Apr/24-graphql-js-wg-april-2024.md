@@ -33,6 +33,7 @@ implementation.
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Lenz Weber-Tronic    | @phryneas     | Apollo             | Germany               |
 
 
 ## Agenda
