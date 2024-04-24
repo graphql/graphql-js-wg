@@ -35,6 +35,7 @@ implementation.
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Lenz Weber-Tronic    | @phryneas     | Apollo             | Germany               |
 | Jerel Miller         | @jerelmiller  | Apollo             | Windsor, CO USA       |
+| Jeff Auriemma        | @bignimbus    | Apollo             | Monroe, CT, USA       |
 
 
 ## Agenda
