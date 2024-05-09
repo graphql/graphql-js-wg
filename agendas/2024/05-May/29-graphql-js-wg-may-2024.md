@@ -33,6 +33,7 @@ implementation.
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Jovi De Croock       | @JoviDeCroock | Stellate           | Aalst, BE             |
 
 
 ## Agenda
@@ -48,3 +49,6 @@ implementation.
 1. Review previous meeting's action items (5m, Host)
    - [Ready for review](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
+1. Call for reviews
+   - [Fragment arguments](https://github.com/graphql/graphql-js/pull/4015) the PR leads
+     to more of them, hopefully split up enough to digest individually.
