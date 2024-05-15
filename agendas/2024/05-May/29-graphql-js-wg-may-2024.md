@@ -34,6 +34,7 @@ implementation.
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Jovi De Croock       | @JoviDeCroock | Stellate           | Aalst, BE             |
+| Lenz Weber-Tronic    | @phryneas     | Apollo             | Wuerzburg, GER        |
 
 
 ## Agenda
@@ -52,3 +53,5 @@ implementation.
 1. Call for reviews
    - [Fragment arguments](https://github.com/graphql/graphql-js/pull/4015) the PR leads
      to more of them, hopefully split up enough to digest individually.
+1. [Collection of libraries and how they import from graphql](https://github.com/graphql/graphql-js/issues/4074)
+1. [process.env, globalThis, and typeof process](https://github.com/graphql/graphql-js/issues/4075)
