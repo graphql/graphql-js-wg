@@ -34,7 +34,7 @@ implementation.
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Jovi De Croock       | @JoviDeCroock | Stellate           | Aalst, BE             |
-
+| Phil Pluckthun       | @kitten       | Expo               | London, UK            |
 
 ## Agenda
 
