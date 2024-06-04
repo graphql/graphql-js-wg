@@ -34,6 +34,7 @@ implementation.
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Jovi De Croock       | @JoviDeCroock | Stellate           | Aalst, BE             |
+| Jerel Miller         | @jerelmiller  | Apollo GraphQL     | Windsor, CO, USA      |
 | Lenz Weber-Tronic    | @phryneas     | Apollo             | Wuerzburg, GER        |
 | Phil Pluckthun       | @kitten       | Expo               | London, UK            |
 
