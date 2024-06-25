@@ -33,7 +33,8 @@ implementation.
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Jovi De Croock (Host) | @JoviDeCroock       | Independent           | Aalst, BE   |
-| Saihajpreet Singh    | @saihaj       | The Guild          | Ottawa, ON             |
+| Saihajpreet Singh    | @saihaj       | The Guild          | Ottawa, ON            |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 
 ## Agenda
@@ -55,3 +56,5 @@ implementation.
   - Backporting fixes to GraphQL 17
   - Getting reviews/merges on pull requests
   - Getting issues closed
+1. [Recent releases](https://github.com/graphql/graphql-js/releases) (10m, Benjie)
+1. Proposal: change default branch to 16.x.x (5m, Benjie)
