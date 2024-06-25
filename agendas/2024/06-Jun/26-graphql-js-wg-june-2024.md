@@ -35,7 +35,7 @@ implementation.
 | Jovi De Croock (Host) | @JoviDeCroock       | Independent           | Aalst, BE   |
 | Saihajpreet Singh    | @saihaj       | The Guild          | Ottawa, ON            |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
-
+| Yaacov Rydzinski     | @yaacovcr     | Independent        | Neve Daniel, IL       |
 
 ## Agenda
 
