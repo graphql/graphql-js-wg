@@ -33,6 +33,7 @@ implementation.
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Jovi De Croock (Host) | @JoviDeCroock       | Independent           | Aalst, BE   |
+| Saihajpreet Singh    | @saihaj       | The Guild          | Ottawa, ON             |
 
 
 ## Agenda
