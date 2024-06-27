@@ -51,10 +51,10 @@ implementation.
    - [Ready for review](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
 1. Stack size depth issue (5m, Jovi)
-  - [Pull request](https://github.com/graphql/graphql-js/pull/4116)
+   - [Pull request](https://github.com/graphql/graphql-js/pull/4116)
 1. GraphQL.JS maintentance (5m, Jovi)
-  - Backporting fixes to GraphQL 17
-  - Getting reviews/merges on pull requests
-  - Getting issues closed
+   - Backporting fixes to GraphQL 17
+   - Getting reviews/merges on pull requests
+   - Getting issues closed
 1. [Recent releases](https://github.com/graphql/graphql-js/releases) (10m, Benjie)
 1. Proposal: change default branch to 16.x.x (5m, Benjie)
