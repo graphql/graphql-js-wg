@@ -30,9 +30,9 @@ implementation.
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name                 | GitHub        | Organization       | Location              |
-| :------------------- | :------------ | :----------------- | :-------------------- |
-| Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Name                     | GitHub              | Organization       | Location               |
+| :----------------------- | :------------------ | :----------------- | :--------------------- |
+| Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 
 
 ## Agenda

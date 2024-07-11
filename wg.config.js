@@ -14,9 +14,9 @@ const config = {
   weekday: "W", // M, Tu, W, Th, F, Sa, Su
   time: "17:00-18:00", // 24-hour clock, range
   attendeesTemplate: `\
-| Name                 | GitHub        | Organization       | Location              |
-| :------------------- | :------------ | :----------------- | :-------------------- |
-| Benjie Gillam (Host) | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Name                     | GitHub              | Organization       | Location               |
+| :----------------------- | :------------------ | :----------------- | :--------------------- |
+| Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 `,
   description: `\
 GraphQL-JS WG (Working Group) is a monthly virtual meeting of maintainers of
