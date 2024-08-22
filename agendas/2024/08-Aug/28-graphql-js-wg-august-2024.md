@@ -33,6 +33,7 @@ implementation.
 | Name                     | GitHub              | Organization       | Location               |
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
+| Yaacov Rydzinski         | @yaacovCR           | Independent        | Neve Daniel, IL        |
 
 
 ## Agenda
@@ -48,3 +49,13 @@ implementation.
 1. Review previous meeting's action items (5m, Host)
    - [Ready for review](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
+1. Discuss: PR merge procedures (15m, Yaacov)
+   - Proposal: [#4172: Add flexibility around the waiting period for merging PRs](https://github.com/graphql/graphql-js/pull/4172) 
+1. Discuss: how to handle existing discrepancies between main/v17-alpha and v16 (30m, Yaacov)
+   - Discrepancies (in v16.x.x, not on main/v17-alpha):
+     - [#3686: Workaround for codesandbox having bug with TS enums](https://github.com/graphql/graphql-js/pull/3686)
+     - [#3923: instanceOf: workaround bundler issue with process.env #3923](https://github.com/graphql/graphql-js/pull/3923)
+     - [#4157: Add GraphQLConf 2024 banner #4157](https://github.com/graphql/graphql-js/pull/4157)
+   - Approaches to Consider:
+     - Merge 16.x.x into main [#4165: Backport 16.x.x into main](https://github.com/graphql/graphql-js/pull/4157)
+     - Forward-port the changes into main [#4166: chore: update main with outstanding fixes on v16.x.x branch](https://github.com/graphql/graphql-js/pull/4171)
