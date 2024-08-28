@@ -34,6 +34,7 @@ implementation.
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 | Yaacov Rydzinski         | @yaacovCR           | Independent        | Neve Daniel, IL        |
+| Lenz Weber-Tronic        | @phryneas           | Apollo             | Wuerzburg, DE          |
 
 
 ## Agenda
