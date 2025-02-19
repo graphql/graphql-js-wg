@@ -50,3 +50,9 @@ implementation.
    - [Ready for review](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
 1. Nullability RFC implementation (15m, Alex Reilly)
+1. [Releasing GraphQL v17](https://github.com/graphql/graphql-js/issues/4205) (10m, Jovi De Croock)
+   - Export maps, let's get those in
+   - `process.env`, get rid of it or default to production?
+   - BigInt in scalars, can we skip it?
+   - Release beta or rc
+   - API Documentation
