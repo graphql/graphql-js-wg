@@ -34,6 +34,7 @@ implementation.
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 | Alex Reilly    | @twof       | DoorDash        | San Francisco, CA, US  |
+| Benjie Gillam            | @benjie             | Graphile           | Chandler's Ford, UK    |
 
 
 ## Agenda
@@ -56,3 +57,6 @@ implementation.
    - BigInt in scalars, can we skip it?
    - Release beta or rc
    - API Documentation
+1. Forbid `@skip` and `@include` directives in subscription root (10m, Benjie)
+   - [PR](https://github.com/graphql/graphql-js/pull/3974)
+   - [RFC](https://github.com/graphql/graphql-spec/pull/860)
