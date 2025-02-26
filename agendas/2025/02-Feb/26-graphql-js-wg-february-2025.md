@@ -35,6 +35,8 @@ implementation.
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 | Alex Reilly    | @twof       | DoorDash        | San Francisco, CA, US  |
 | Benjie Gillam            | @benjie             | Graphile           | Chandler's Ford, UK    |
+| Jerel Miller             | @jerelmiller        | Apollo             | Scottsdale, AZ, USA    |
+| Jeff Auriemma            | @bignimbus          | Apollo             | Scottsdale, AZ, USA    |
 
 
 ## Agenda
