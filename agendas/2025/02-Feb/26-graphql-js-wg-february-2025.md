@@ -37,6 +37,7 @@ implementation.
 | Benjie Gillam            | @benjie             | Graphile           | Chandler's Ford, UK    |
 | Jerel Miller             | @jerelmiller        | Apollo             | Scottsdale, AZ, USA    |
 | Jeff Auriemma            | @bignimbus          | Apollo             | Scottsdale, AZ, USA    |
+| Yaacov Rydzinski         | @yaacovCR           | Independent        | Neve Daniel, IL        |
 
 
 ## Agenda
