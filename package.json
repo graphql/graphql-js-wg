@@ -5,6 +5,6 @@
   },
   "dependencies": {
     "prettier": "^3.2.4",
-    "wgutils": "^0.1.5"
+    "wgutils": "^1.2.5"
   }
 }
