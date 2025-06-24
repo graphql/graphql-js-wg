@@ -65,7 +65,8 @@ implementation.
    - relevant old PRs (non-exhaustive list):
       - https://github.com/graphql/graphql-js/pull/4385 => closed => converts to esm only, i.e. part of proposal above, now closed, could be merged separately prior to the rest of 4437.
       - https://github.com/graphql/graphql-js/pull/4096 => open => proposed bundling changes to work around dual package hazard with dual-cjs-esm build
-      - https://github.com/graphql/graphql-js/pull/3674 => closed => earlier proposal to add conditional exports
+      - https://github.com/graphql/graphql-js/pull/4081 => open => earlier proposal to add conditional exports
+      - https://github.com/graphql/graphql-js/pull/3674 => closed => even earlier proposal to add conditional exports
       - https://github.com/graphql/graphql-js/pull/3361 => merged => include cjs and esm builds via js and mjs extensions (got us to our current state)
       - https://github.com/graphql/graphql-js/pull/3552 => merged => converted to esm only, but reverted later by 3361
    - relevant issues, reverse chronological order (non-exhaustive list):
