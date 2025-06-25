@@ -37,7 +37,7 @@ implementation.
 | Lenz Weber-Tronic        | @phryneas           | Apollo GraphQL     | Wuerzburg, DE          |
 | Pablo Saez               | @PabloSzx           | Independent        | New York, US           |
 | Denis Badurina           | @enisdenjo          | The Guild          | Sarajevo, BA           |
-
+| Jayden Seric             | @jaydenseric        | Independent        | Melbourne, AU          |
 
 ## Agenda
 
@@ -51,3 +51,12 @@ implementation.
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. Discuss [optimal JavaScript module design](https://jaydenseric.com/blog/optimal-javascript-module-design) (15m, Jayden).
+   - Current state:
+     - GraphQL.js publishes suboptimal index/"barrel" modules (modules with multiple exports), vs deep importable modules with a single export. E.g:
+       - Index module: https://unpkg.com/graphql@16.11.0/index.js
+       - Library module: https://app.unpkg.com/graphql@16.11.0/files/type/scalars.mjs
+   - Proposal:
+     - Move each export (e.g. each scalar) into its own deep-importable single-export module.
+     - Remove index/"barrel" modules.
+     - Remove the package main entry-point. This will ensure the ecosystem only imports from GraphQL.js via optimal deep imports.
