@@ -36,7 +36,7 @@ implementation.
 | Yaacov Rydzinski (Host)  | @yaacovCR           | Independent        | Neve Daniel, IL        |
 | Lenz Weber-Tronic        | @phryneas           | Apollo GraphQL     | Wuerzburg, DE          |
 | Pablo Saez               | @PabloSzx           | Independent        | New York, US           |
-
+| Jayden Seric             | @jaydenseric        | Independent        | Melbourne, AU          |
 
 ## Agenda
 
@@ -90,3 +90,12 @@ implementation.
       - dual build a la https://github.com/graphql/graphql-js/pull/4096 vs alternatively scheme in https://github.com/nodejs/node/issues/52174
       - move to ESM-only, but provide a cjs build either via `graphql-cjs` or a tag under `graphql`.
       - do nothing in v17, but quickly release v18 with some additional option.
+1. Discuss [optimal JavaScript module design](https://jaydenseric.com/blog/optimal-javascript-module-design) (15m, Jayden).
+   - Current state:
+     - GraphQL.js publishes suboptimal index/"barrel" modules (modules with multiple exports), vs deep importable modules with a single export. E.g:
+       - Index module: https://unpkg.com/graphql@16.11.0/index.js
+       - Library module: https://app.unpkg.com/graphql@16.11.0/files/type/scalars.mjs
+   - Proposal:
+     - Move each export (e.g. each scalar) into its own deep-importable single-export module.
+     - Remove index/"barrel" modules.
+     - Remove the package main entry-point. This will ensure the ecosystem only imports from GraphQL.js via optimal deep imports.
