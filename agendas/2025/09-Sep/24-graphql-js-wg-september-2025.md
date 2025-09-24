@@ -33,6 +33,8 @@ implementation.
 | Name                     | GitHub              | Organization       | Location               |
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
+| Jerel Miller     | @jerelmiller       | Apollo GraphQL        | USA              |
+| Lenz Weber-Tronic     | @phryneas       | Apollo GraphQL        | Germany              |
 
 
 ## Agenda
@@ -47,3 +49,4 @@ implementation.
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. Incremental Delivery spec header media type
