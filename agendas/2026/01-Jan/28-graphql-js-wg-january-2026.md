@@ -1,7 +1,7 @@
 | This is an open meeting: To attend, edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# GraphQL JS WG — October 2025
+# GraphQL JS WG — January 2026
 
 GraphQL-JS WG (Working Group) is a monthly virtual meeting of maintainers of
 commonly used GraphQL libraries and tools and significant contributors in the
@@ -13,7 +13,7 @@ changes to the [GraphQL-JS](https://github.com/graphql/graphql-spec) reference
 implementation.
 
 
-- **Date & Time**: [October 29, 2025, 5:00 – 6:00 PM UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251029T170000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
+- **Date & Time**: [January 28, 2026, 5:00 – 6:00 PM UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260128T170000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
   - View the [calendar][], or subscribe ([Google Calendar][], [ical file][]).
   - _Please Note:_ The date or time may change. Please check this agenda the
     week of the meeting to confirm. While we try to keep all calendars accurate,
@@ -47,4 +47,3 @@ implementation.
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/graphql-js-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
-1. Reminder: [grants available for key initiatives](https://graphql.org/community/foundation/community-grant/) (1m, Host)
