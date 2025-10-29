@@ -34,6 +34,7 @@ implementation.
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 | Martin Bonnin    | @martinbonnin       | Apollo        | Paris, FR              |
+| Uri Goldshtein   | @urigo       | The Guild        | Tel Aviv, IL              |
 
 
 ## Agenda
@@ -52,4 +53,5 @@ implementation.
 2. Next v16 release? (5m Martin)
   - https://github.com/graphql/graphql-js/pull/4493 (open) 
   - https://github.com/graphql/graphql-js/pull/4482 (merged) 
-  - https://github.com/graphql/graphql-js/pull/4364 (draft) 
+  - https://github.com/graphql/graphql-js/pull/4364 (draft)
+3. What if we were to write an alternative graphql-js from scratch? (10m Uri)
