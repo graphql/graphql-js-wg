@@ -34,6 +34,7 @@ implementation.
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
 | Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 | Martin Bonnin    | @martinbonnin       | Apollo        | Paris, FR              |
+| Lenz Weber-Tronic | @phryneas | Apollo | Germany |
 | Uri Goldshtein   | @urigo       | The Guild        | Tel Aviv, IL              |
 
 
