@@ -16,7 +16,6 @@ const config = {
   attendeesTemplate: `\
 | Name                     | GitHub              | Organization       | Location               |
 | :----------------------- | :------------------ | :----------------- | :--------------------- |
-| Jovi De Croock (Host)    | @JoviDeCroock       | Independent        | Aalst, BE              |
 `,
   description: `\
 GraphQL-JS WG (Working Group) is a monthly virtual meeting of maintainers of
